@@ -1,0 +1,13 @@
+.footer_Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.wrapper{
+    padding: 5%;
+    background-color: #161619;
+    height: 30px;
+    border-radius: 0 0 15px 15px
+
+}

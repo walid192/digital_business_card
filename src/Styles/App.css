@@ -1,0 +1,16 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+
+body{
+  background-color: #23252C;
+  margin: 0;
+  padding: 2% 40%;
+}
+
+
